@@ -33,4 +33,4 @@ This completes the build and now we're ready to run the nodes in the package. Pl
 [![Developer Shield](https://img.shields.io/badge/Developer-TheProjectsGuy-blue)][dev-link]
 
 [dev-link]: https://github.com/TheProjectsGuy
-[blog-post-test-rosbag]: https://www.google.com
+[blog-post-test-rosbag]: https://sites.google.com/view/no-boredom/home/learning/ros/ros-intermediate/ros-rosbag
