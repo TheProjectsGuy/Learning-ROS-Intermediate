@@ -1,0 +1,14 @@
+# First parameters YAML file
+var1: "Variable 1"
+header1:
+  ns1: {var2: "Header / Namespace / Variable 2"}
+  a: "Variable A"
+header2:
+  ns2: [0, "A list", 1]
+  ns3:
+    ns31:
+      var4: "Variable 4"
+  ns4: {
+    varA: "Variable A",
+    varB: "Variable B"
+  }

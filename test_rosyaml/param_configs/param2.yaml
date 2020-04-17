@@ -1,0 +1,13 @@
+var1: "Variable 1"
+header1:
+  ns1: {var2: "Header / Namespace / Variable 2"}
+  a: "Variable A"
+header2:
+  ns2: ["String A", "String B", "String C"]
+  ns3:
+    ns31:
+      var4: "Variable 4"
+  ns4: {
+    varA: "Variable A",
+    varB: "Variable B"
+  }
