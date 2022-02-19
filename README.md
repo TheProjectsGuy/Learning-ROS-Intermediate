@@ -1,3 +1,5 @@
+**Note**: This repository is deprecated. Please see [TheProjectsGuy/Learning_ROS](https://github.com/TheProjectsGuy/Learning_ROS)
+
 # Intermediate level ROS tutorials
 
 This repository contains ROS packages for ROS intermediate level tutorials.
